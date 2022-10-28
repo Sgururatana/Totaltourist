@@ -6,4 +6,4 @@ import seaborn as sns
 import xgboost as xgb
 from sklearn.metrics import mean_squared_error
 color_pal = sns.color_palette()
-plt.style.use('fivethirtyeight')
+plt.style.use('fivethirtyeight
